@@ -4,3 +4,5 @@ const fetch = () => {
 }
 
 fetch();
+
+console.log('new message')
